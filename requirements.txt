@@ -24,7 +24,7 @@ par2cmdline-turbo
 pillow
 psutil
 pymongo
-pyrofork==2.2.11
+pyrotgfork==2.2.23
 python-magic
 pytz
 qbittorrent-api
